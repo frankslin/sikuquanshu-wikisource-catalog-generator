@@ -59,7 +59,12 @@ pandoc -f markdown -t mediawiki input.md -o output.wiki
 
 ## 成品鏈接
 
-使用本工具生成並發布到維基文庫的最終成品：
+使用本工具生成的档案：
+
+- [四庫全書存目叢書](https://frankslin.github.io/sikuquanshu-wikisource-catalog-generator/四庫全書存目叢書)
+- [四庫全書存目叢書補編](https://frankslin.github.io/sikuquanshu-wikisource-catalog-generator/四庫全書存目叢書補編)
+
+發布到維基文庫的最終成品：
 
 - [四庫全書存目叢書](https://zh.wikisource.org/wiki/%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E5%AD%98%E7%9B%AE%E5%8F%A2%E6%9B%B8)
 - [四庫全書存目叢書補編](https://zh.wikisource.org/wiki/%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E5%AD%98%E7%9B%AE%E5%8F%A2%E6%9B%B8%E8%A3%9C%E7%B7%A8)
